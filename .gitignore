@@ -1,4 +1,7 @@
-/build
 .vscode
 .clangd
 .cache
+
+/build
+compile_commands.json
+compile_flags.txt
